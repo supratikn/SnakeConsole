@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\superkid\documents\visual studio 2015\projects\snakeconsole\snakeconsole\main.cpp(136): warning C4018: '<': signed/unsigned mismatch
+  SnakeConsole.vcxproj -> C:\Users\superkid\Documents\Visual Studio 2015\Projects\SnakeConsole\Debug\SnakeConsole.exe
+  SnakeConsole.vcxproj -> C:\Users\superkid\Documents\Visual Studio 2015\Projects\SnakeConsole\Debug\SnakeConsole.pdb (Full PDB)
